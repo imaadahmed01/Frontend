@@ -1,5 +1,5 @@
 const { createApp } = Vue;
-
+// Assuming FontAwesome is already included in the HTML
 createApp({
   data() {
     return {
