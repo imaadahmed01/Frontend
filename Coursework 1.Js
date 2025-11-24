@@ -1,7 +1,7 @@
 const { createApp } = Vue;
 // Assuming FontAwesome is already included in the HTML
-createApp({
-  data() {
+createApp({ // Vue app instance
+  data() { // Application state
     return {
       lessons: [
         {
